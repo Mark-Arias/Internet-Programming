@@ -1,0 +1,32 @@
+h1 {text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 40px;
+	color: black;
+	background-color: #9999ff;
+	padding: 16px;}
+
+h2 {text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	color: black;}
+
+h3 {text-align: center; 
+	background-color: blueviolet;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	padding: 8px;
+	}
+
+html {background-color: white;}
+
+img {border: transparent; align-self: center;
+		max-width: 100%;
+		height: auto;
+		width: auto;}
+
+p { text-align: center; 
+	font-family: 'Open Sans', sans-serif;
+	 font-size: 16px; 
+	 color: black;}
+
+body{background-color:#ccccff;}
