@@ -1,0 +1,61 @@
+h1 {text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 40px;
+	color: black;
+	background-color: #34b299;
+	padding: 16px;}
+
+h2 {text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	background-color: #34b299;
+	color: black;}
+
+h3 {text-align: center; 
+	background-color: #34b299;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	padding: 8px;
+	}
+
+html {background-color: white;}
+
+img {border: transparent; align-self: center;
+		max-width: 100%;
+		height: auto;
+		width: auto;}
+
+p { text-align: center; 
+	font-family: 'Open Sans', sans-serif;
+	 font-size: 16px; 
+	 color: black;}
+
+body{background-color:#ccfff5;}
+
+
+/*The code that follows is used to create the parallax 
+scrolling effect   */
+
+body, html {
+	height: 100%;
+}
+
+.parallax {
+	background-image: url(buddha.jpg); 
+	height: 100%;
+
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.parallax2 {
+	background-image: url(kalanchoe.jpg); 
+	height: 100%;
+
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
